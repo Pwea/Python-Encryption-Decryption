@@ -1,0 +1,2 @@
+Hello! This file is fine!
+Not encrypted at all!
